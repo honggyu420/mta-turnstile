@@ -1,7 +1,8 @@
 import psycopg2
-from sql_queries import create_table_queries, drop_table_queries,populate_table_raw_turnstile
+from sql_queries import create_table_queries, drop_table_queries,populate_table_raw_turnstile, transform_table_raw_turnstile
 import os
 import configparser
+
 
 def connect_database():
     config = configparser.ConfigParser()
@@ -15,6 +16,7 @@ def connect_database():
     conn = psycopg2.connect(dbname=dbname, host=host, user=user, password=password)
     cur = conn.cursor()
     return cur, conn
+
 
 def drop_tables(cur, conn):
     for query in drop_table_queries:
@@ -43,16 +45,29 @@ def populate_tables(cur, conn):
         
     conn.commit()
 
-def main():
+
+def transform_tables(cur, conn):
+    cur.execute(transform_table_raw_turnstile)
+    conn.commit()
+    
+    
+def start():
     cur, conn = connect_database()
+    
     print("dropping")
-    exit()
     drop_tables(cur, conn)
+    
     print("creating")
     create_tables(cur, conn)
+    
     print("populating")
     populate_tables(cur, conn)
+    
+    print("transforming")
+    transform_tables(cur, conn)
+    
     conn.close()
 
+
 if __name__ == "__main__":
-    main()
+    start()
