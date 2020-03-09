@@ -1,0 +1,5 @@
+[POSTGRES]
+host = localhost
+user = ellie
+password = my_pASSword
+db = my_dbname
