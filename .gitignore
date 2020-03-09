@@ -1,2 +1,4 @@
 scraper/raw_turnstile_data/*
 config/db.cfg
+.ipynb_checkpoints
+__pycache__
