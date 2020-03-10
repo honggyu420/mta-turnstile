@@ -1,0 +1,47 @@
+{
+  "Brooklyn": [
+    "Brownsville", 
+    "Bushwick South", 
+    "Bushwick North", 
+    "Cypress Hills-City Line", 
+    "Clinton Hill", 
+    "Crown Heights North", 
+    "Crown Heights South", 
+    "Cypress Hills-City Line", 
+    "East Flatbush-Farragut", 
+    "East New York (Pennsylvania Ave)", 
+    "East New York", 
+    "Flatbush", 
+    "Fort Greene", 
+    "Ocean Hill", 
+    "Stuyvesant Heights", 
+    "Prospect Lefferts Gardens-Wingate"
+  ],
+  "Manhattan": [
+    "Hamilton Heights", 
+    "Central Harlem South", 
+    "Central Harlem North-Polo Grounds", 
+    "East Harlem South"
+  ],
+  "Bronx": [
+    "Eastchester-Edenwald-Baychester", 
+    "Co-op City", 
+    "Fordham South", 
+    "Bedford Park-Fordham North", 
+    "Morrisania-Melrose", 
+    "Melrose South-Mott Haven North", 
+    "Williamsbridge-Olinville", 
+    "Soundview-Bruckner", 
+    "East Tremont", 
+    "Woodlawn-Wakefield"
+  ],
+  "Queens": [
+    "Hammels-Arverne-Edgemere", 
+    "Bensonhurst West", 
+    "Bensonhurst East", 
+    "Elmhurst", 
+    "Far Rockaway-Bayswater", 
+    "Jamaica", 
+    "Queensbridge-Ravenswood-Long Island City"
+  ]
+}

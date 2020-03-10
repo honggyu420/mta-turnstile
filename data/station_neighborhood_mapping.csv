@@ -1,0 +1,381 @@
+station_name,neighborhood,borough,borough_code
+238 St,Spuyten Duyvil-Kingsbridge,Bronx,2
+231 St,Spuyten Duyvil-Kingsbridge,Bronx,2
+Dyckman St,Washington Heights North,Manhattan,1
+191 St,Washington Heights North,Manhattan,1
+181 St,Washington Heights North,Manhattan,1
+168 St - Washington Hts,Washington Heights South,Manhattan,1
+157 St,Washington Heights South,Manhattan,1
+145 St,Hamilton Heights,Manhattan,1
+137 St - City College,Manhattanville,Manhattan,1
+125 St,Morningside Heights,Manhattan,1
+116 St - Columbia University,Morningside Heights,Manhattan,1
+Cathedral Pkwy (110 St),Morningside Heights,Manhattan,1
+103 St,Upper West Side,Manhattan,1
+96 St,Upper West Side,Manhattan,1
+86 St,Upper West Side,Manhattan,1
+79 St,Upper West Side,Manhattan,1
+72 St,Lincoln Square,Manhattan,1
+66 St - Lincoln Center,Lincoln Square,Manhattan,1
+59 St - Columbus Circle,Lincoln Square,Manhattan,1
+50 St,Midtown-Midtown South,Manhattan,1
+Times Sq - 42 St,Midtown-Midtown South,Manhattan,1
+34 St - Penn Station,Midtown-Midtown South,Manhattan,1
+28 St,Midtown-Midtown South,Manhattan,1
+23 St,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,1
+18 St,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,1
+14 St,West Village,Manhattan,1
+Christopher St - Sheridan Sq,West Village,Manhattan,1
+Houston St,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,1
+Canal St,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,1
+Franklin St,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,1
+Chambers St,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,1
+Wakefield - 241 St,Woodlawn-Wakefield,Bronx,2
+Nereid Av,Woodlawn-Wakefield,Bronx,2
+233 St,Williamsbridge-Olinville,Bronx,2
+225 St,Williamsbridge-Olinville,Bronx,2
+219 St,Williamsbridge-Olinville,Bronx,2
+Gun Hill Rd,Williamsbridge-Olinville,Bronx,2
+Burke Av,Bronxdale,Bronx,2
+Allerton Av,Bronxdale,Bronx,2
+Pelham Pkwy,Pelham Parkway,Bronx,2
+Bronx Park East,East Tremont,Bronx,2
+E 180 St,East Tremont,Bronx,2
+West Farms Sq - E Tremont Av,East Tremont,Bronx,2
+174 St,Crotona Park East,Bronx,2
+Freeman St,Morrisania-Melrose,Bronx,2
+Simpson St,Hunts Point,Bronx,2
+Intervale Av,Longwood,Bronx,2
+Prospect Av,Melrose South-Mott Haven North,Bronx,2
+Jackson Av,Melrose South-Mott Haven North,Bronx,2
+3 Av - 149 St,Melrose South-Mott Haven North,Bronx,2
+135 St,Central Harlem North-Polo Grounds,Manhattan,1
+116 St,Central Harlem South,Manhattan,1
+Central Park North (110 St),Central Harlem South,Manhattan,1
+Park Pl,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,1
+Clark St,Brooklyn Heights-Cobble Hill,Brooklyn,3
+Borough Hall,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,3
+Hoyt St,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,3
+Nevins St,Fort Greene,Brooklyn,3
+Atlantic Av - Barclays Ctr,Fort Greene,Brooklyn,3
+Bergen St,Park Slope-Gowanus,Brooklyn,3
+Grand Army Plaza,Park Slope-Gowanus,Brooklyn,3
+Franklin Av,Crown Heights South,Brooklyn,3
+President St,Crown Heights South,Brooklyn,3
+Sterling St,Prospect Lefferts Gardens-Wingate,Brooklyn,3
+Winthrop St,Prospect Lefferts Gardens-Wingate,Brooklyn,3
+Church Av,Prospect Lefferts Gardens-Wingate,Brooklyn,3
+Beverly Rd,Erasmus,Brooklyn,3
+Newkirk Av,East Flatbush-Farragut,Brooklyn,3
+Flatbush Av - Brooklyn College,Flatbush,Brooklyn,3
+Nostrand Av,Crown Heights South,Brooklyn,3
+Kingston Av,Crown Heights North,Brooklyn,3
+Crown Hts - Utica Av,Crown Heights North,Brooklyn,3
+Sutter Av - Rutland Rd,Brownsville,Brooklyn,3
+Saratoga Av,Brownsville,Brooklyn,3
+Rockaway Av,Brownsville,Brooklyn,3
+Junius St,Brownsville,Brooklyn,3
+Pennsylvania Av,East New York (Pennsylvania Ave),Brooklyn,3
+Van Siclen Av,East New York,Brooklyn,3
+New Lots Av,East New York,Brooklyn,3
+Harlem - 148 St,Central Harlem North-Polo Grounds,Manhattan,1
+Woodlawn,Norwood,Bronx,2
+Mosholu Pkwy,Norwood,Bronx,2
+Bedford Park Blvd - Lehman College,Van Cortlandt Village,Bronx,2
+Kingsbridge Rd,Van Cortlandt Village,Bronx,2
+Fordham Rd,Bedford Park-Fordham North,Bronx,2
+183 St,Fordham South,Bronx,2
+Burnside Av,University Heights-Morris Heights,Bronx,2
+176 St,University Heights-Morris Heights,Bronx,2
+Mt Eden Av,Mount Hope,Bronx,2
+170 St,West Concourse,Bronx,2
+167 St,West Concourse,Bronx,2
+161 St - Yankee Stadium,West Concourse,Bronx,2
+Eastchester - Dyre Av,Eastchester-Edenwald-Baychester,Bronx,2
+Baychester Av,Co-op City,Bronx,2
+Morris Park,Pelham Parkway,Bronx,2
+Westchester Sq - E Tremont Av,Van Nest-Morris Park-Westchester Square,Bronx,2
+Zerega Av,Westchester-Unionport,Bronx,2
+Castle Hill Av,Westchester-Unionport,Bronx,2
+Parkchester,Soundview-Bruckner,Bronx,2
+St Lawrence Av,Soundview-Bruckner,Bronx,2
+Morrison Av- Sound View,Soundview-Bruckner,Bronx,2
+Elder Av,West Farms-Bronx River,Bronx,2
+Whitlock Av,Hunts Point,Bronx,2
+Hunts Point Av,Hunts Point,Bronx,2
+Longwood Av,Longwood,Bronx,2
+E 149 St,Longwood,Bronx,2
+110 St,East Harlem South,Manhattan,1
+77 St,Upper East Side-Carnegie Hill,Manhattan,1
+68 St - Hunter College,Upper East Side-Carnegie Hill,Manhattan,1
+59 St,Upper East Side-Carnegie Hill,Manhattan,1
+33 St,Midtown-Midtown South,Manhattan,1
+14 St - Union Sq,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,1
+Astor Pl,West Village,Manhattan,1
+Bleecker St,West Village,Manhattan,1
+Spring St,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,1
+Brooklyn Bridge - City Hall,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,1
+Flushing - Main St,Flushing,Queens,4
+111 St,North Corona,Queens,4
+103 St - Corona Plaza,North Corona,Queens,4
+Junction Blvd,Elmhurst,Queens,4
+90 St - Elmhurst Av,Jackson Heights,Queens,4
+82 St - Jackson Hts,Jackson Heights,Queens,4
+74 St - Broadway,Elmhurst,Queens,4
+69 St,Woodside,Queens,4
+Woodside - 61 St,Woodside,Queens,4
+52 St,Hunters Point-Sunnyside-West Maspeth,Queens,4
+46 St - Bliss St,Hunters Point-Sunnyside-West Maspeth,Queens,4
+40 St - Lowery St,Hunters Point-Sunnyside-West Maspeth,Queens,4
+33 St - Rawson St,Hunters Point-Sunnyside-West Maspeth,Queens,4
+Queensboro Plaza,Hunters Point-Sunnyside-West Maspeth,Queens,4
+Court Sq,Hunters Point-Sunnyside-West Maspeth,Queens,4
+Hunters Point Av,Hunters Point-Sunnyside-West Maspeth,Queens,4
+Vernon Blvd - Jackson Av,Hunters Point-Sunnyside-West Maspeth,Queens,4
+5 Av,Midtown-Midtown South,Manhattan,1
+34 St - Hudson Yds,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,1
+Grand Central - 42 St,Midtown-Midtown South,Manhattan,1
+190 St,Washington Heights North,Manhattan,1
+175 St,Washington Heights South,Manhattan,1
+168 St,Washington Heights South,Manhattan,1
+163 St - Amsterdam Av,Washington Heights South,Manhattan,1
+155 St,Hamilton Heights,Manhattan,1
+42 St - Port Authority Bus Terminal,Midtown-Midtown South,Manhattan,1
+W 4 St - Wash Sq,West Village,Manhattan,1
+High St,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,3
+Jay St - MetroTech,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,3
+Hoyt - Schermerhorn Sts,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,3
+Lafayette Av,Fort Greene,Brooklyn,3
+Clinton - Washington Avs,Clinton Hill,Brooklyn,3
+Kingston - Throop Avs,Bedford,Brooklyn,3
+Utica Av,Crown Heights North,Brooklyn,3
+Ralph Av,Ocean Hill,Brooklyn,3
+Broadway Jct,Ocean Hill,Brooklyn,3
+Liberty Av,East New York,Brooklyn,3
+Shepherd Av,East New York,Brooklyn,3
+Euclid Av,East New York,Brooklyn,3
+Grant Av,Cypress Hills-City Line,Brooklyn,3
+80 St,Ozone Park,Queens,4
+88 St,Ozone Park,Queens,4
+Rockaway Blvd,Ozone Park,Queens,4
+104 St,South Ozone Park,Queens,4
+Ozone Park - Lefferts Blvd,South Ozone Park,Queens,4
+21 St - Queensbridge,Queensbridge-Ravenswood-Long Island City,Queens,4
+Lexington Av/63 St,Upper East Side-Carnegie Hill,Manhattan,1
+57 St,Midtown-Midtown South,Manhattan,1
+9 Av,Sunset Park East,Brooklyn,3
+Fort Hamilton Pkwy,Sunset Park East,Brooklyn,3
+55 St,Borough Park,Brooklyn,3
+62 St,Bensonhurst West,Brooklyn,3
+71 St,Bensonhurst West,Brooklyn,3
+18 Av,Bensonhurst West,Brooklyn,3
+20 Av,Bensonhurst West,Brooklyn,3
+Bay Pkwy,Bensonhurst West,Brooklyn,3
+25 Av,Bensonhurst East,Brooklyn,3
+Bay 50 St,Gravesend,Brooklyn,3
+Norwood - 205 St,Norwood,Bronx,2
+Bedford Park Blvd,Bedford Park-Fordham North,Bronx,2
+182-183 Sts,Fordham South,Bronx,2
+Tremont Av,Mount Hope,Bronx,2
+174-175 Sts,Mount Hope,Bronx,2
+7 Av,Midtown-Midtown South,Manhattan,1
+47-50 Sts - Rockefeller Ctr,Midtown-Midtown South,Manhattan,1
+42 St - Bryant Pk,Midtown-Midtown South,Manhattan,1
+34 St - Herald Sq,Midtown-Midtown South,Manhattan,1
+Broadway-Lafayette St,West Village,Manhattan,1
+Grand St,Chinatown,Manhattan,1
+Prospect Park,Prospect Lefferts Gardens-Wingate,Brooklyn,3
+Parkside Av,Prospect Lefferts Gardens-Wingate,Brooklyn,3
+Beverley Rd,Flatbush,Brooklyn,3
+Cortelyou Rd,Flatbush,Brooklyn,3
+Newkirk Plaza,Flatbush,Brooklyn,3
+Avenue H,Midwood,Brooklyn,3
+Avenue J,Midwood,Brooklyn,3
+Avenue M,Midwood,Brooklyn,3
+Kings Hwy,Madison,Brooklyn,3
+Avenue U,Madison,Brooklyn,3
+Neck Rd,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,Brooklyn,3
+Sheepshead Bay,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,Brooklyn,3
+Brighton Beach,Brighton Beach,Brooklyn,3
+Ocean Pkwy,Brighton Beach,Brooklyn,3
+W 8 St - NY Aquarium,West Brighton,Brooklyn,3
+Coney Island - Stillwell Av,West Brighton,Brooklyn,3
+World Trade Center,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,1
+Jamaica - 179 St,Jamaica,Queens,4
+169 St,Jamaica,Queens,4
+Parsons Blvd,Briarwood-Jamaica Hills,Queens,4
+Sutphin Blvd,Jamaica,Queens,4
+Briarwood,Kew Gardens,Queens,4
+75 Av,Forest Hills,Queens,4
+5 Av/53 St,Midtown-Midtown South,Manhattan,1
+2 Av,East Village,Manhattan,1
+Delancey St - Essex St,Chinatown,Manhattan,1
+York St,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,3
+Carroll St,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,3
+Smith - 9 Sts,Park Slope-Gowanus,Brooklyn,3
+4 Av - 9 St,Park Slope-Gowanus,Brooklyn,3
+15 St - Prospect Park,Windsor Terrace,Brooklyn,3
+Ditmas Av,Kensington-Ocean Parkway,Brooklyn,3
+Avenue I,Ocean Parkway South,Brooklyn,3
+Avenue N,Borough Park,Brooklyn,3
+Avenue P,Ocean Parkway South,Brooklyn,3
+Avenue X,Gravesend,Brooklyn,3
+Neptune Av,Seagate-Coney Island,Brooklyn,3
+Jamaica Center - Parsons/Archer,Jamaica,Queens,4
+Sutphin Blvd - Archer Av - JFK Airport,Jamaica,Queens,4
+Jamaica - Van Wyck,Kew Gardens,Queens,4
+Forest Hills - 71 Av,Forest Hills,Queens,4
+67 Av,Forest Hills,Queens,4
+63 Dr - Rego Park,Rego Park,Queens,4
+Woodhaven Blvd,Elmhurst,Queens,4
+Grand Av - Newtown,Elmhurst,Queens,4
+Elmhurst Av,Elmhurst,Queens,4
+Jackson Hts - Roosevelt Av,Elmhurst,Queens,4
+65 St,Woodside,Queens,4
+Northern Blvd,Woodside,Queens,4
+46 St,Astoria,Queens,4
+Steinway St,Astoria,Queens,4
+36 St,Hunters Point-Sunnyside-West Maspeth,Queens,4
+Queens Plaza,Queensbridge-Ravenswood-Long Island City,Queens,4
+Court Sq - 23 St,Hunters Point-Sunnyside-West Maspeth,Queens,4
+21 St,Hunters Point-Sunnyside-West Maspeth,Queens,4
+Greenpoint Av,Greenpoint,Brooklyn,3
+Nassau Av,Greenpoint,Brooklyn,3
+Metropolitan Av,North Side-South Side,Brooklyn,3
+Broadway,East Williamsburg,Brooklyn,3
+Flushing Av,Bedford,Brooklyn,3
+Myrtle - Willoughby Avs,Bedford,Brooklyn,3
+Bedford - Nostrand Avs,Bedford,Brooklyn,3
+Classon Av,Clinton Hill,Brooklyn,3
+Fulton St,Fort Greene,Brooklyn,3
+Aqueduct Racetrack,Ozone Park,Queens,4
+Aqueduct - N Conduit Av,Ozone Park,Queens,4
+Beach 67 St,Hammels-Arverne-Edgemere,Queens,4
+Beach 60 St,Hammels-Arverne-Edgemere,Queens,4
+Beach 44 St,Hammels-Arverne-Edgemere,Queens,4
+Beach 36 St,Hammels-Arverne-Edgemere,Queens,4
+Beach 25 St,Far Rockaway-Bayswater,Queens,4
+Far Rockaway - Mott Av,Far Rockaway-Bayswater,Queens,4
+Beach 90 St,Hammels-Arverne-Edgemere,Queens,4
+121 St,Richmond Hill,Queens,4
+85 St - Forest Pkwy,Woodhaven,Queens,4
+75 St - Elder Ln,Woodhaven,Queens,4
+Cypress Hills,Cypress Hills-City Line,Brooklyn,3
+Crescent St,Cypress Hills-City Line,Brooklyn,3
+Norwood Av,Cypress Hills-City Line,Brooklyn,3
+Cleveland St,East New York,Brooklyn,3
+Alabama Av,East New York,Brooklyn,3
+Chauncey St,Ocean Hill,Brooklyn,3
+Halsey St,Bushwick South,Brooklyn,3
+Gates Av,Bushwick South,Brooklyn,3
+Kosciuszko St,Bushwick South,Brooklyn,3
+8 Av,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,1
+6 Av,West Village,Manhattan,1
+Union Sq - 14 St,West Village,Manhattan,1
+3 Av,Gramercy,Manhattan,1
+1 Av,East Village,Manhattan,1
+Bedford Av,North Side-South Side,Brooklyn,3
+Lorimer St,North Side-South Side,Brooklyn,3
+Graham Av,East Williamsburg,Brooklyn,3
+Montrose Av,Bushwick South,Brooklyn,3
+Morgan Av,Bushwick North,Brooklyn,3
+Jefferson St,Bushwick North,Brooklyn,3
+DeKalb Av,Bushwick North,Brooklyn,3
+Myrtle - Wyckoff Avs,Bushwick North,Brooklyn,3
+Wilson Av,Bushwick North,Brooklyn,3
+Bushwick Av - Aberdeen St,Bushwick South,Brooklyn,3
+Atlantic Av,East New York (Pennsylvania Ave),Brooklyn,3
+Sutter Av,Brownsville,Brooklyn,3
+Livonia Av,Brownsville,Brooklyn,3
+E 105 St,East New York,Brooklyn,3
+Middle Village - Metropolitan Av,Ridgewood,Queens,4
+Fresh Pond Rd,Ridgewood,Queens,4
+Forest Av,Ridgewood,Queens,4
+Seneca Av,Ridgewood,Queens,4
+Knickerbocker Av,Bushwick North,Brooklyn,3
+Central Av,Bushwick South,Brooklyn,3
+Myrtle Av,Stuyvesant Heights,Brooklyn,3
+Hewes St,Williamsburg,Brooklyn,3
+Marcy Av,Williamsburg,Brooklyn,3
+Delancy St - Essex St,Chinatown,Manhattan,1
+Bowery,Chinatown,Manhattan,1
+New Utrecht Av,Bensonhurst West,Brooklyn,3
+S.B. Coney Island,West Brighton,Brooklyn,3
+Astoria - Ditmars Blvd,Steinway,Queens,4
+Astoria Blvd,Steinway,Queens,4
+30 Av,Astoria,Queens,4
+36 Av,Astoria,Queens,4
+39 Av - Dutch Kills,Queensbridge-Ravenswood-Long Island City,Queens,4
+Lexington Av/59 St,Upper East Side-Carnegie Hill,Manhattan,1
+57 St - 7 Av,Midtown-Midtown South,Manhattan,1
+49 St,Midtown-Midtown South,Manhattan,1
+8 St - NYU,West Village,Manhattan,1
+Prince St,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,1
+City Hall,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,1
+Court St,Brooklyn Heights-Cobble Hill,Brooklyn,3
+Union St,Park Slope-Gowanus,Brooklyn,3
+25 St,Sunset Park West,Brooklyn,3
+45 St,Sunset Park West,Brooklyn,3
+53 St,Sunset Park West,Brooklyn,3
+Bay Ridge Av,Bay Ridge,Brooklyn,3
+Bay Ridge - 95 St,Bay Ridge,Brooklyn,3
+Botanic Garden,Crown Heights South,Brooklyn,3
+Tottenville,Charleston-Richmond Valley-Tottenville,Staten Island,5
+Atlantic,Charleston-Richmond Valley-Tottenville,Staten Island,5
+Arthur Kill,Charleston-Richmond Valley-Tottenville,Staten Island,5
+Nassau,Charleston-Richmond Valley-Tottenville,Staten Island,5
+Richmond Valley,Charleston-Richmond Valley-Tottenville,Staten Island,5
+Pleasant Plains,Charleston-Richmond Valley-Tottenville,Staten Island,5
+Prince's Bay,Annadale-Huguenot-Prince's Bay-Eltingville,Staten Island,5
+Huguenot,Annadale-Huguenot-Prince's Bay-Eltingville,Staten Island,5
+Annadale,Annadale-Huguenot-Prince's Bay-Eltingville,Staten Island,5
+Eltingville,Great Kills,Staten Island,5
+Great Kills,Great Kills,Staten Island,5
+Bay Terrace,Oakwood-Oakwood Beach,Staten Island,5
+Oakwood Heights,Oakwood-Oakwood Beach,Staten Island,5
+New Dorp,New Dorp-Midland Beach,Staten Island,5
+Grant City,New Dorp-Midland Beach,Staten Island,5
+Jefferson Av,New Dorp-Midland Beach,Staten Island,5
+Dongan Hills,Old Town-Dongan Hills-South Beach,Staten Island,5
+Old Town,Old Town-Dongan Hills-South Beach,Staten Island,5
+Grasmere,Grasmere-Arrochar-Ft. Wadsworth,Staten Island,5
+Clifton,Stapleton-Rosebank,Staten Island,5
+Stapleton,Stapleton-Rosebank,Staten Island,5
+Tompkinsville,Stapleton-Rosebank,Staten Island,5
+St George,West New Brighton-New Brighton-St. George,Staten Island,5
+Marble Hill - 225 St,,,
+215 St,,,
+207 St,,,
+Cortlandt St,,,
+Rector St,,,
+South Ferry Loop,,,
+South Ferry,,,
+149 St - Grand Concourse,,,
+Wall St,,,
+Eastern Pkwy - Brooklyn Museum,,,
+138 St - Grand Concourse,,,
+Bowling Green,,,
+Pelham Bay Park,,,
+Buhre Av,,,
+Middletown Rd,,,
+E 143 St - St Mary's St,,,
+Cypress Av,,,
+Brook Av,,,
+3 Av - 138 St,,,
+51 St,,,
+Mets - Willets Point,,,
+Inwood - 207 St,,,
+81 St - Museum of Natural History,,,
+Roosevelt Island,,,
+Kew Gardens - Union Tpke,,,
+Lexington Av/53 St,,,
+East Broadway,,,
+Howard Beach - JFK Airport,,,
+Broad Channel,,,
+Beach 98 St,,,
+Beach 105 St,,,
+Rockaway Park - Beach 116 St,,,
+Canarsie - Rockaway Pkwy,,,
+Broad St,,,
+5 Av/59 St,,,
+Whitehall St - South Ferry,,,
