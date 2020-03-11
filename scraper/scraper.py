@@ -27,8 +27,8 @@ def createUrlSubset(urls):
     """
 
     print("creating url subset")
-    starting_point = None
-    stopping_point = 'turnstile_200208.txt'
+    starting_point =  '171230'
+    stopping_point = '1612'
     index_to_start = 0
     index_to_stop = len(urls) - 1
 
